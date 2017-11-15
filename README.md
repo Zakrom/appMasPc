@@ -1,2 +1,3 @@
-# appMasPc
-Aplicacion movil para  la materia de IHC 
+# Isma si lees esto
+
+## *COME TIERRA*
